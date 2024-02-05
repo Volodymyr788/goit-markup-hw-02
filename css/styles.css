@@ -13,6 +13,13 @@ a {
     font-weight: 700;
     color: #4d5ae5;
 }
+.logo-top{
+    font-family: "Raleway", sans-serif;
+font-weight: 700;
+font-size: 18px;
+line-height: 1.16667;
+color: #2e2f42;
+}
 
 .nav-link {
     font-weight: 500;
@@ -32,6 +39,11 @@ a {
  font-weight: 400;
  background-color: #fff;
 }
+.title-address:hover,
+.title-address:focus {
+    color: #404bbf;
+}
+
 
 .main-page-title{
     background-color: #2e2f42;
@@ -58,7 +70,6 @@ a {
 }
 .main-page{
  width: 264px;
- height: 104px;
 }
 .main-page-descr{
 font-weight: 500;
