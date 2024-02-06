@@ -1,6 +1,6 @@
 .body {
     font-family: "Roboto", sans-serif;
-    background-color: #fff;
+    color: #434455
 }
 
 a {
@@ -8,12 +8,19 @@ a {
 }
 
 .logo {
+    font-family: "Raleway", sans-serif;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
     font-size: 18px;
     font-weight: 700;
     color: #4d5ae5;
 }
 .logo-top{
  font-family: "Raleway", sans-serif;
+ line-height: 1.17;
+ letter-spacing: 0.03em;
+ text-transform: uppercase;
  font-weight: 700;
  font-size: 18px;
  color: #2e2f42;
@@ -21,6 +28,7 @@ a {
 
 .nav-link {
     font-weight: 500;
+    letter-spacing: 0.02em;
     font-size: 16px;
     line-height: 1.5;
     color: #2e2f42;
@@ -30,7 +38,10 @@ a {
 .nav-link:focus{
  color: #404bbf;
 }
-    
+.address {
+    font-style: normal;
+}
+
 .title-address {
  font-style: normal;
  letter-spacing: 0.02em;
