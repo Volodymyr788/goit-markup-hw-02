@@ -29,7 +29,7 @@ a {
  font-size: 16px;
  line-height: 1.5;
  color: #2e2f42;
- background-color: #fff;;
+ background-color: #fff;
 }
 .nav-link:hover,
 .nav-link:focus{
@@ -66,11 +66,9 @@ a {
  font-weight: 500;
  line-height: 1.5;
  letter-spacing: 0.04em;
- width: 169px;
- height: 56px;
  cursor: pointer;
  background-color: #4d5ae5;
- color: #ffffff
+ color: #ffffff;
 }
 .button-order-service:hover,
 .button-order-service:focus {
