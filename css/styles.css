@@ -45,6 +45,7 @@ a {
 .title-address {
  font-style: normal;
  letter-spacing: 0.02em;
+ line-height: 1.5;
  font-size: 16px;
  font-weight: 400;
  color: #434455;
@@ -106,6 +107,7 @@ a {
 }
 .title-our-team{
  text-transform: capitalize;
+ line-height: 1.11;
  letter-spacing: 0.02em;
  font-weight: 700;
  font-size: 36px;
@@ -135,6 +137,7 @@ color: #434455;
 
 .title-portfolio {
  font-family: "Roboto", sans-serif;
+ line-height: 1.11;
  letter-spacing: 0.02em;
  font-weight: 700;
  font-size: 36px;
