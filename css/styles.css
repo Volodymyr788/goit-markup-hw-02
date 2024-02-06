@@ -62,9 +62,9 @@ a {
 
 .main-page-title-content{
  letter-spacing: 0.02em;
- line: 1.07;
+ line-height: 1.07;
+ text-align: center;
  font-size: 56px;
- text: center;
  font-weight: 700;
  color: #ffffff;
 }
@@ -145,7 +145,7 @@ color: #434455;
  color: #2e2f42;
 }
 
-.box-portfolio{
+.portfolio{
  width: 360px;
  background-color: #fff;
 }
