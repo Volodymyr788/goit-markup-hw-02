@@ -37,6 +37,7 @@ color: #2e2f42;
  font-size: 16px;
  line-height: 1.5;
  font-weight: 400;
+ color: #434455;
  background-color: #fff;
 }
 .title-address:hover,
@@ -44,10 +45,16 @@ color: #2e2f42;
     color: #404bbf;
 }
 
-
 .main-page-title{
     background-color: #2e2f42;
 }
+
+.main-page-title-content{
+    font-size: 56px;
+    line-height: 1.07143;
+    font-weight: 700;
+}
+
 .button-order-service {
     width: 169px;
     height: 56px;
@@ -58,11 +65,6 @@ color: #2e2f42;
 .button-order-service:hover,
 .button-order-service:focus {
     background-color: #404bbf;
-}
-.main-page-title-content{
-    font-size: 56px;
-    line-height: 1.07143;
-    font-weight: 700;
 }
 .main-page-description{
  width: 1128px;
